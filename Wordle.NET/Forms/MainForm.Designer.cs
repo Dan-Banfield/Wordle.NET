@@ -1,6 +1,6 @@
-﻿namespace Wordle.NET
+﻿namespace Wordle.NET.Forms
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         /// Required designer variable.
@@ -37,4 +37,3 @@
         #endregion
     }
 }
-
