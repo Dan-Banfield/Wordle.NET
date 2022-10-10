@@ -104,7 +104,6 @@
             // slot1
             // 
             this.slot1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot1.Enabled = false;
             this.slot1.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot1.ForeColor = System.Drawing.Color.White;
             this.slot1.Location = new System.Drawing.Point(179, 96);
@@ -117,7 +116,6 @@
             // slot2
             // 
             this.slot2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot2.Enabled = false;
             this.slot2.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot2.ForeColor = System.Drawing.Color.White;
             this.slot2.Location = new System.Drawing.Point(260, 96);
@@ -130,7 +128,6 @@
             // slot3
             // 
             this.slot3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot3.Enabled = false;
             this.slot3.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot3.ForeColor = System.Drawing.Color.White;
             this.slot3.Location = new System.Drawing.Point(341, 96);
@@ -143,7 +140,6 @@
             // slot4
             // 
             this.slot4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot4.Enabled = false;
             this.slot4.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot4.ForeColor = System.Drawing.Color.White;
             this.slot4.Location = new System.Drawing.Point(422, 96);
@@ -156,7 +152,6 @@
             // slot5
             // 
             this.slot5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot5.Enabled = false;
             this.slot5.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot5.ForeColor = System.Drawing.Color.White;
             this.slot5.Location = new System.Drawing.Point(503, 96);
@@ -169,7 +164,6 @@
             // slot10
             // 
             this.slot10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot10.Enabled = false;
             this.slot10.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot10.ForeColor = System.Drawing.Color.White;
             this.slot10.Location = new System.Drawing.Point(503, 163);
@@ -182,7 +176,6 @@
             // slot9
             // 
             this.slot9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot9.Enabled = false;
             this.slot9.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot9.ForeColor = System.Drawing.Color.White;
             this.slot9.Location = new System.Drawing.Point(422, 163);
@@ -195,7 +188,6 @@
             // slot8
             // 
             this.slot8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot8.Enabled = false;
             this.slot8.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot8.ForeColor = System.Drawing.Color.White;
             this.slot8.Location = new System.Drawing.Point(341, 163);
@@ -208,7 +200,6 @@
             // slot7
             // 
             this.slot7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot7.Enabled = false;
             this.slot7.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot7.ForeColor = System.Drawing.Color.White;
             this.slot7.Location = new System.Drawing.Point(260, 163);
@@ -221,7 +212,6 @@
             // slot6
             // 
             this.slot6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot6.Enabled = false;
             this.slot6.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot6.ForeColor = System.Drawing.Color.White;
             this.slot6.Location = new System.Drawing.Point(179, 163);
@@ -234,7 +224,6 @@
             // slot15
             // 
             this.slot15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot15.Enabled = false;
             this.slot15.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot15.ForeColor = System.Drawing.Color.White;
             this.slot15.Location = new System.Drawing.Point(503, 230);
@@ -247,7 +236,6 @@
             // slot14
             // 
             this.slot14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot14.Enabled = false;
             this.slot14.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot14.ForeColor = System.Drawing.Color.White;
             this.slot14.Location = new System.Drawing.Point(422, 230);
@@ -260,7 +248,6 @@
             // slot13
             // 
             this.slot13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot13.Enabled = false;
             this.slot13.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot13.ForeColor = System.Drawing.Color.White;
             this.slot13.Location = new System.Drawing.Point(341, 230);
@@ -273,7 +260,6 @@
             // slot12
             // 
             this.slot12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot12.Enabled = false;
             this.slot12.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot12.ForeColor = System.Drawing.Color.White;
             this.slot12.Location = new System.Drawing.Point(260, 230);
@@ -286,7 +272,6 @@
             // slot11
             // 
             this.slot11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot11.Enabled = false;
             this.slot11.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot11.ForeColor = System.Drawing.Color.White;
             this.slot11.Location = new System.Drawing.Point(179, 230);
@@ -299,7 +284,6 @@
             // slot30
             // 
             this.slot30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot30.Enabled = false;
             this.slot30.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot30.ForeColor = System.Drawing.Color.White;
             this.slot30.Location = new System.Drawing.Point(503, 431);
@@ -312,7 +296,6 @@
             // slot29
             // 
             this.slot29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot29.Enabled = false;
             this.slot29.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot29.ForeColor = System.Drawing.Color.White;
             this.slot29.Location = new System.Drawing.Point(422, 431);
@@ -325,7 +308,6 @@
             // slot28
             // 
             this.slot28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot28.Enabled = false;
             this.slot28.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot28.ForeColor = System.Drawing.Color.White;
             this.slot28.Location = new System.Drawing.Point(341, 431);
@@ -338,7 +320,6 @@
             // slot27
             // 
             this.slot27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot27.Enabled = false;
             this.slot27.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot27.ForeColor = System.Drawing.Color.White;
             this.slot27.Location = new System.Drawing.Point(260, 431);
@@ -351,7 +332,6 @@
             // slot26
             // 
             this.slot26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot26.Enabled = false;
             this.slot26.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot26.ForeColor = System.Drawing.Color.White;
             this.slot26.Location = new System.Drawing.Point(179, 431);
@@ -364,7 +344,6 @@
             // slot25
             // 
             this.slot25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot25.Enabled = false;
             this.slot25.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot25.ForeColor = System.Drawing.Color.White;
             this.slot25.Location = new System.Drawing.Point(503, 364);
@@ -377,7 +356,6 @@
             // slot24
             // 
             this.slot24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot24.Enabled = false;
             this.slot24.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot24.ForeColor = System.Drawing.Color.White;
             this.slot24.Location = new System.Drawing.Point(422, 364);
@@ -390,7 +368,6 @@
             // slot23
             // 
             this.slot23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot23.Enabled = false;
             this.slot23.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot23.ForeColor = System.Drawing.Color.White;
             this.slot23.Location = new System.Drawing.Point(341, 364);
@@ -403,7 +380,6 @@
             // slot22
             // 
             this.slot22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot22.Enabled = false;
             this.slot22.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot22.ForeColor = System.Drawing.Color.White;
             this.slot22.Location = new System.Drawing.Point(260, 364);
@@ -416,7 +392,6 @@
             // slot21
             // 
             this.slot21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot21.Enabled = false;
             this.slot21.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot21.ForeColor = System.Drawing.Color.White;
             this.slot21.Location = new System.Drawing.Point(179, 364);
@@ -429,7 +404,6 @@
             // slot20
             // 
             this.slot20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot20.Enabled = false;
             this.slot20.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot20.ForeColor = System.Drawing.Color.White;
             this.slot20.Location = new System.Drawing.Point(503, 297);
@@ -442,7 +416,6 @@
             // slot19
             // 
             this.slot19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot19.Enabled = false;
             this.slot19.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot19.ForeColor = System.Drawing.Color.White;
             this.slot19.Location = new System.Drawing.Point(422, 297);
@@ -455,7 +428,6 @@
             // slot18
             // 
             this.slot18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot18.Enabled = false;
             this.slot18.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot18.ForeColor = System.Drawing.Color.White;
             this.slot18.Location = new System.Drawing.Point(341, 297);
@@ -468,7 +440,6 @@
             // slot17
             // 
             this.slot17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot17.Enabled = false;
             this.slot17.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot17.ForeColor = System.Drawing.Color.White;
             this.slot17.Location = new System.Drawing.Point(260, 297);
@@ -481,7 +452,6 @@
             // slot16
             // 
             this.slot16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
-            this.slot16.Enabled = false;
             this.slot16.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.slot16.ForeColor = System.Drawing.Color.White;
             this.slot16.Location = new System.Drawing.Point(179, 297);
@@ -503,6 +473,7 @@
             this.q.TabStop = false;
             this.q.Text = "Q";
             this.q.UseVisualStyleBackColor = false;
+            this.q.Click += new System.EventHandler(this.q_Click);
             // 
             // w
             // 
@@ -516,6 +487,7 @@
             this.w.TabStop = false;
             this.w.Text = "W";
             this.w.UseVisualStyleBackColor = false;
+            this.w.Click += new System.EventHandler(this.w_Click);
             // 
             // e
             // 
@@ -529,6 +501,7 @@
             this.e.TabStop = false;
             this.e.Text = "E";
             this.e.UseVisualStyleBackColor = false;
+            this.e.Click += new System.EventHandler(this.e_Click);
             // 
             // r
             // 
@@ -542,6 +515,7 @@
             this.r.TabStop = false;
             this.r.Text = "R";
             this.r.UseVisualStyleBackColor = false;
+            this.r.Click += new System.EventHandler(this.r_Click);
             // 
             // i
             // 
@@ -555,6 +529,7 @@
             this.i.TabStop = false;
             this.i.Text = "I";
             this.i.UseVisualStyleBackColor = false;
+            this.i.Click += new System.EventHandler(this.i_Click);
             // 
             // u
             // 
@@ -568,6 +543,7 @@
             this.u.TabStop = false;
             this.u.Text = "U";
             this.u.UseVisualStyleBackColor = false;
+            this.u.Click += new System.EventHandler(this.u_Click);
             // 
             // y
             // 
@@ -581,6 +557,7 @@
             this.y.TabStop = false;
             this.y.Text = "Y";
             this.y.UseVisualStyleBackColor = false;
+            this.y.Click += new System.EventHandler(this.y_Click);
             // 
             // t
             // 
@@ -594,6 +571,7 @@
             this.t.TabStop = false;
             this.t.Text = "T";
             this.t.UseVisualStyleBackColor = false;
+            this.t.Click += new System.EventHandler(this.t_Click);
             // 
             // p
             // 
@@ -607,6 +585,7 @@
             this.p.TabStop = false;
             this.p.Text = "P";
             this.p.UseVisualStyleBackColor = false;
+            this.p.Click += new System.EventHandler(this.p_Click);
             // 
             // o
             // 
@@ -620,6 +599,7 @@
             this.o.TabStop = false;
             this.o.Text = "O";
             this.o.UseVisualStyleBackColor = false;
+            this.o.Click += new System.EventHandler(this.o_Click);
             // 
             // l
             // 
@@ -633,6 +613,7 @@
             this.l.TabStop = false;
             this.l.Text = "L";
             this.l.UseVisualStyleBackColor = false;
+            this.l.Click += new System.EventHandler(this.l_Click);
             // 
             // k
             // 
@@ -646,6 +627,7 @@
             this.k.TabStop = false;
             this.k.Text = "K";
             this.k.UseVisualStyleBackColor = false;
+            this.k.Click += new System.EventHandler(this.k_Click);
             // 
             // j
             // 
@@ -659,6 +641,7 @@
             this.j.TabStop = false;
             this.j.Text = "J";
             this.j.UseVisualStyleBackColor = false;
+            this.j.Click += new System.EventHandler(this.j_Click);
             // 
             // h
             // 
@@ -672,6 +655,7 @@
             this.h.TabStop = false;
             this.h.Text = "H";
             this.h.UseVisualStyleBackColor = false;
+            this.h.Click += new System.EventHandler(this.h_Click);
             // 
             // g
             // 
@@ -685,6 +669,7 @@
             this.g.TabStop = false;
             this.g.Text = "G";
             this.g.UseVisualStyleBackColor = false;
+            this.g.Click += new System.EventHandler(this.g_Click);
             // 
             // f
             // 
@@ -698,6 +683,7 @@
             this.f.TabStop = false;
             this.f.Text = "F";
             this.f.UseVisualStyleBackColor = false;
+            this.f.Click += new System.EventHandler(this.f_Click);
             // 
             // d
             // 
@@ -711,6 +697,7 @@
             this.d.TabStop = false;
             this.d.Text = "D";
             this.d.UseVisualStyleBackColor = false;
+            this.d.Click += new System.EventHandler(this.d_Click);
             // 
             // s
             // 
@@ -724,6 +711,7 @@
             this.s.TabStop = false;
             this.s.Text = "S";
             this.s.UseVisualStyleBackColor = false;
+            this.s.Click += new System.EventHandler(this.s_Click);
             // 
             // a
             // 
@@ -737,6 +725,7 @@
             this.a.TabStop = false;
             this.a.Text = "A";
             this.a.UseVisualStyleBackColor = false;
+            this.a.Click += new System.EventHandler(this.a_Click);
             // 
             // back
             // 
@@ -750,6 +739,7 @@
             this.back.TabStop = false;
             this.back.Text = "BACK";
             this.back.UseVisualStyleBackColor = false;
+            this.back.Click += new System.EventHandler(this.back_Click);
             // 
             // m
             // 
@@ -763,6 +753,7 @@
             this.m.TabStop = false;
             this.m.Text = "M";
             this.m.UseVisualStyleBackColor = false;
+            this.m.Click += new System.EventHandler(this.m_Click);
             // 
             // n
             // 
@@ -776,6 +767,7 @@
             this.n.TabStop = false;
             this.n.Text = "N";
             this.n.UseVisualStyleBackColor = false;
+            this.n.Click += new System.EventHandler(this.n_Click);
             // 
             // b
             // 
@@ -789,6 +781,7 @@
             this.b.TabStop = false;
             this.b.Text = "B";
             this.b.UseVisualStyleBackColor = false;
+            this.b.Click += new System.EventHandler(this.b_Click);
             // 
             // v
             // 
@@ -802,6 +795,7 @@
             this.v.TabStop = false;
             this.v.Text = "V";
             this.v.UseVisualStyleBackColor = false;
+            this.v.Click += new System.EventHandler(this.v_Click);
             // 
             // c
             // 
@@ -815,6 +809,7 @@
             this.c.TabStop = false;
             this.c.Text = "C";
             this.c.UseVisualStyleBackColor = false;
+            this.c.Click += new System.EventHandler(this.c_Click);
             // 
             // x
             // 
@@ -828,6 +823,7 @@
             this.x.TabStop = false;
             this.x.Text = "X";
             this.x.UseVisualStyleBackColor = false;
+            this.x.Click += new System.EventHandler(this.x_Click);
             // 
             // z
             // 
@@ -841,6 +837,7 @@
             this.z.TabStop = false;
             this.z.Text = "Z";
             this.z.UseVisualStyleBackColor = false;
+            this.z.Click += new System.EventHandler(this.z_Click);
             // 
             // enter
             // 
@@ -854,6 +851,7 @@
             this.enter.TabStop = false;
             this.enter.Text = "ENTER";
             this.enter.UseVisualStyleBackColor = false;
+            this.enter.Click += new System.EventHandler(this.enter_Click);
             // 
             // MainForm
             // 
@@ -929,6 +927,7 @@
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Wordle.NET";
+            this.Load += new System.EventHandler(this.MainForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
@@ -937,36 +936,6 @@
         #endregion
 
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Button slot1;
-        private System.Windows.Forms.Button slot2;
-        private System.Windows.Forms.Button slot3;
-        private System.Windows.Forms.Button slot4;
-        private System.Windows.Forms.Button slot5;
-        private System.Windows.Forms.Button slot10;
-        private System.Windows.Forms.Button slot9;
-        private System.Windows.Forms.Button slot8;
-        private System.Windows.Forms.Button slot7;
-        private System.Windows.Forms.Button slot6;
-        private System.Windows.Forms.Button slot15;
-        private System.Windows.Forms.Button slot14;
-        private System.Windows.Forms.Button slot13;
-        private System.Windows.Forms.Button slot12;
-        private System.Windows.Forms.Button slot11;
-        private System.Windows.Forms.Button slot30;
-        private System.Windows.Forms.Button slot29;
-        private System.Windows.Forms.Button slot28;
-        private System.Windows.Forms.Button slot27;
-        private System.Windows.Forms.Button slot26;
-        private System.Windows.Forms.Button slot25;
-        private System.Windows.Forms.Button slot24;
-        private System.Windows.Forms.Button slot23;
-        private System.Windows.Forms.Button slot22;
-        private System.Windows.Forms.Button slot21;
-        private System.Windows.Forms.Button slot20;
-        private System.Windows.Forms.Button slot19;
-        private System.Windows.Forms.Button slot18;
-        private System.Windows.Forms.Button slot17;
-        private System.Windows.Forms.Button slot16;
         private System.Windows.Forms.Button q;
         private System.Windows.Forms.Button w;
         private System.Windows.Forms.Button e;
@@ -995,5 +964,35 @@
         private System.Windows.Forms.Button x;
         private System.Windows.Forms.Button z;
         private System.Windows.Forms.Button enter;
+        public System.Windows.Forms.Button slot1;
+        public System.Windows.Forms.Button slot2;
+        public System.Windows.Forms.Button slot3;
+        public System.Windows.Forms.Button slot4;
+        public System.Windows.Forms.Button slot5;
+        public System.Windows.Forms.Button slot10;
+        public System.Windows.Forms.Button slot9;
+        public System.Windows.Forms.Button slot8;
+        public System.Windows.Forms.Button slot7;
+        public System.Windows.Forms.Button slot6;
+        public System.Windows.Forms.Button slot15;
+        public System.Windows.Forms.Button slot14;
+        public System.Windows.Forms.Button slot13;
+        public System.Windows.Forms.Button slot12;
+        public System.Windows.Forms.Button slot11;
+        public System.Windows.Forms.Button slot30;
+        public System.Windows.Forms.Button slot29;
+        public System.Windows.Forms.Button slot28;
+        public System.Windows.Forms.Button slot27;
+        public System.Windows.Forms.Button slot26;
+        public System.Windows.Forms.Button slot25;
+        public System.Windows.Forms.Button slot24;
+        public System.Windows.Forms.Button slot23;
+        public System.Windows.Forms.Button slot22;
+        public System.Windows.Forms.Button slot21;
+        public System.Windows.Forms.Button slot20;
+        public System.Windows.Forms.Button slot19;
+        public System.Windows.Forms.Button slot18;
+        public System.Windows.Forms.Button slot17;
+        public System.Windows.Forms.Button slot16;
     }
 }
