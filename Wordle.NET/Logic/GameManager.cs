@@ -6,7 +6,7 @@ namespace Wordle.NET.Logic
     {
         #region Game Data
 
-        private int slotIndex = 1;
+        private int slotIndex = 0;
 
         #endregion
 
@@ -29,6 +29,7 @@ namespace Wordle.NET.Logic
                 case '+':
                     break;
                 case '-':
+                    Backspace();
                     break;
                 default:
                     PushCharacter(character);
@@ -38,41 +39,13 @@ namespace Wordle.NET.Logic
 
         public void Backspace()
         {
-            // TODO: Add backspace functionality.
+            slotIndex--;
+            mainFormInstance.slots[slotIndex].Text = "";
         }
 
         private void PushCharacter(char character)
         {
-            switch (slotIndex)
-            {
-                case 1:
-                    mainFormInstance.slot1.Text = character.ToString();
-                    break;
-                case 2:
-                    mainFormInstance.slot2.Text = character.ToString();
-                    break;
-                case 3:
-                    mainFormInstance.slot3.Text = character.ToString();
-                    break;
-                case 4:
-                    mainFormInstance.slot4.Text = character.ToString();
-                    break;
-                case 5:
-                    mainFormInstance.slot5.Text = character.ToString();
-                    break;
-                case 6:
-                    mainFormInstance.slot6.Text = character.ToString();
-                    break;
-                case 7:
-                    mainFormInstance.slot7.Text = character.ToString();
-                    break;
-                case 8:
-                    mainFormInstance.slot8.Text = character.ToString();
-                    break;
-                case 9:
-                    mainFormInstance.slot9.Text = character.ToString();
-                    break;
-            }
+            mainFormInstance.slots[slotIndex].Text = character.ToString();
             slotIndex++;
         }
     }

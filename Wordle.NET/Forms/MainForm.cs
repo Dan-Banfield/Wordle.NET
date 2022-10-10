@@ -7,6 +7,8 @@ namespace Wordle.NET.Forms
     {
         private GameManager gameManagerInstance;
 
+        public Button[] slots;
+
         public MainForm()
         {
             InitializeComponent();
@@ -16,6 +18,8 @@ namespace Wordle.NET.Forms
 
         private void MainForm_Load(object sender, System.EventArgs e)
         {
+            InitializeArray();
+
             gameManagerInstance = new GameManager(this);
             gameManagerInstance.StartNewGame();
         }
@@ -157,7 +161,48 @@ namespace Wordle.NET.Forms
 
         private void back_Click(object sender, System.EventArgs e)
         {
+            gameManagerInstance.SubmitCharacter('-');
+        }
 
+        #endregion
+
+        #region Methods
+
+        private void InitializeArray()
+        {
+            slots = new Button[] 
+            {
+                slot1,
+                slot2,
+                slot3,
+                slot4,
+                slot5,
+                slot6,
+                slot7,
+                slot8,
+                slot9,
+                slot10,
+                slot11,
+                slot12,
+                slot13,
+                slot14,
+                slot15,
+                slot16,
+                slot17,
+                slot18,
+                slot19,
+                slot20,
+                slot21,
+                slot22,
+                slot23,
+                slot24,
+                slot25,
+                slot26,
+                slot27,
+                slot28,
+                slot29,
+                slot30,
+            };
         }
 
         #endregion
